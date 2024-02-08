@@ -1,6 +1,7 @@
 # Three.js Journey Course Overview
 
-Bruno Simon ThreeJs Course..
+Bruno Simon ThreeJs Course
+
 Welcome to the README file for the Three.js Journey course! This document provides an overview of the course content, organized into chapters, to help you navigate and understand what to expect from each section.
 
 ## Course Structure
